@@ -1,0 +1,35 @@
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env/
+venv/
+venv\
+ENV/
+ENV\
+.venv/
+.venv\
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Package distribution
+build/
+dist/
+*.egg-info/
+
+# Optional: CSV data files can remain if you want them published
+# Uncomment below if you prefer not to publish data files
+# *.csv
